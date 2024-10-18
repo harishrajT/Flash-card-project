@@ -8,8 +8,6 @@ This is a simple **Flashcard-based Language Learning App** built using Python an
 - **Known words tracking**: Allows users to mark words as known, removing them from future sessions.
 - **Data persistence**: Automatically saves progress by storing words that need to be learned in a CSV file (`To_Learn.csv`).
 
-## Screenshots
-![App Screenshot](screenshot.png) <!-- Add your screenshot here if you have one -->
 
 ## Installation
 ### Requirements
